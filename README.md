@@ -2,7 +2,9 @@
 
 Personal website & blog.
 
-https://www.mattbattison.dev/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f526985f-4c36-40c4-b260-20b5c299c5d6/deploy-status)](https://app.netlify.com/sites/mattbattison/deploys)
+
+<https://www.mattbattison.dev/>
 
 ## Development
 
