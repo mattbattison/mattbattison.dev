@@ -1,0 +1,24 @@
+# Site settings
+title: matt battison
+description: >-
+  Matt Battison's blog.
+
+# Social media
+email: hello@mattbattison.dev
+twitter_username: mattbattison
+github_username:  mattbattison
+instagram_username: mattbattison
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Excludes
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
