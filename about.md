@@ -15,4 +15,4 @@ This site has existed in some form or another under various domain names since a
 
 Unfortunately, most of my old blog posts have been lost as this site has undergone redesigns over the years. I do intend to migrate some of the archived content when I get a chance.
 
-Powered by [Jekyll](https://jekyllrb.com) using the [Minima](https://github.com/jekyll/minima) theme.
+Powered by [Jekyll](https://jekyllrb.com) using the [Minima](https://github.com/jekyll/minima) theme. Hosted by [Netlify](https://www.netlify.com).
