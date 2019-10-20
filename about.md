@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+![me](/assets/me.jpg)
+{: .profile-picture}
+
 About me.
 
 #### About this site
