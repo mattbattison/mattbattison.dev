@@ -1,0 +1,23 @@
+---
+---
+
+@import "minima";
+
+.profile-picture > img {
+    width: 150px;
+    border-radius: 50%;
+    float: right;
+    margin-left: 10px;
+}
+
+@include media-query($on-palm) {
+    .profile-picture {
+        text-align: center;
+        img {
+            width: 50%;
+            border-radius: 50%;
+            float: none;
+            margin-left: 0;
+        }
+    }
+}
