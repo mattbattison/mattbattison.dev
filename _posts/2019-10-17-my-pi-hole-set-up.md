@@ -211,9 +211,9 @@ The configuration for this is actually very simple. We just need to add a single
 address=/.pi.mattbattison.net/192.168.1.20
 ```
 
-Obviously, you'll need to replace the name and address with the corresponding values for your set-up.
+Obviously, you'll need to replace the name and address with the corresponding values for your setup.
 
-You should then be able to navigate to ```x.y.x.pi.mattbattison.net``` and it will redirect to the given IP. You'll still have to set up the virtual hosts on the receiving web server, though.
+You should then be able to navigate to ```x.y.z.pi.mattbattison.net``` and it will redirect to the given IP. You'll still have to set up the virtual hosts on the receiving web server, though.
 
 # Conclusion
 
